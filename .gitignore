@@ -1,0 +1,3 @@
+# the line below removes all .DS_Store files in all directory/sub directory in this repo
+.DS_Store
+.ipynb_checkpoints
